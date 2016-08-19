@@ -1,0 +1,6 @@
+[package]
+name = "permcop"
+version = "0.1.0"
+authors = ["jeff@darkware.org"]
+
+[dependencies]
